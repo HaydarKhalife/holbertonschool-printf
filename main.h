@@ -10,7 +10,7 @@
 
 /**
 * struct format - match the conversion specifiers to args passed
-* @id: pointer to format specifer, i.e. id[0] = % and id[1] is the letter (c, s, d, i)
+* @id: pointer to format specifer
 * @f: pointer to function determined by the conversion specifier
 *
 */
