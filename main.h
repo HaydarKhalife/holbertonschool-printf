@@ -29,4 +29,4 @@ int printf_string(va_list val);
 int _putchar(char c);
 int _printf(const char *format, ...);
 
-#endif
+#endif /* MAIN_H */
