@@ -59,15 +59,4 @@ $ _printf \[lq]%s\[rq], Holberton
 Holberton
 .SH AUTHORS
 .PP
-Written by Sarah Markland & Carlos Alarcon
-.PP
-Sources: C ANSI Library printf man page www.wikipedia.com www.github.com
-.SH BUGS
-.PP
-Submit bug reports online at:
-.PP
-<https://github.com/carlalap>
-.PD 0
-.P
-.PD
-<https://github.com/sarahmarkland>
+Written by Haydar khalife
